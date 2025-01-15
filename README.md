@@ -59,9 +59,10 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergio-n4to&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+ ## Pessoas que me visitaram :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/sergio-n4to/count.svg" />
+ </p>
 
 
 
