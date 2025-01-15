@@ -35,14 +35,6 @@
 <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
-
-### ✨ Animação de Cobrinha:
-<div align="center">
-  <img src="https://github.com/sergio-n4to/sergio-n4to/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
 ### 🌐 Como Conectar Comigo:
 
 <div align="center">
