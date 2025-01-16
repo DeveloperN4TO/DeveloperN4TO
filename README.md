@@ -35,7 +35,7 @@
 <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
-### 🌐 Como Conectar Comigo:
+### 🌐 Como Conectar-se Comigo:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sergio-rodrigues-709675257/">
@@ -51,7 +51,7 @@
   </a>
 </div>
 
- ## Pessoas que me visitaram :detective: <br>
+ ## Total de visualização do meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/sergio-n4to/count.svg" />
  </p>
